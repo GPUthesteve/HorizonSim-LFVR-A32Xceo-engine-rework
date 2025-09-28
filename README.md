@@ -5,3 +5,5 @@ Well, these engines don't idle at 68% N2 like CFM LEAP do, rather around 60% for
 
 
 <img width="796" height="788" alt="image" src="https://github.com/user-attachments/assets/6301020f-337f-4113-876e-2f2a1000129e" />
+
+oh and, KOZ/MEASTO on IAE is implemented, yay (spool delay in a nutshell)
